@@ -2,7 +2,7 @@ import { companyLogos } from "../../constants";
 
 export default function Teams() {
   return (
-    <section className="w-full py-32">
+    <section className="w-full py-20 md:py-32">
       <div className="max-w-5xl mx-auto">
         <div className="text-center mb-12 px-4">
           <h2 className="text-white text-xl font-medium">

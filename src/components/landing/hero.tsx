@@ -14,7 +14,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
-            className="text-5xl lg:text-7xl font-medium mb-6 text-transparent bg-gradient-to-b from-[#ECECEC] to-[#ECECEC10] bg-clip-text"
+            className="text-5xl lg:text-7xl font-medium mb-6 text-transparent bg-gradient-to-b from-[#ECECEC] to-[#ECECEC]/10 bg-clip-text"
           >
             Modern analytics <br className="hidden md:block" /> for the modern
             world
@@ -23,7 +23,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="text-lg text-[#ECECEC65] max-w-2xl mx-auto mb-8 font-normal"
+            className="text-lg text-[#ECECEC]/65 max-w-2xl mx-auto mb-8 font-normal"
           >
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
             varius enim in eros elementum tristique.
