@@ -3,7 +3,7 @@ const Analytics = () => {
     <section className="py-20 px-4 md:px-8 relative">
       <div className="max-w-7xl mx-auto">
         <div className="py-24 bg-gradient-to-br from-[#ECECEC]/5 via-[#ECECEC]/5 to-transparent shadow-[0_-2px_20px_#BB9BFF40] flex items-center justify-center p-4 md:p-12 rounded-xl border border-[#282D45] relative overflow-hidden">
-          <div className="text-center relative max-w-2xl mx-auto">
+          <div className="text-center relative max-w-2xl mx-auto px-4">
             <h2 className="text-4xl lg:text-5xl font-bold text-[#ECECEC] mb-6">
               Our powerful analytics provides invaluable insights.
             </h2>
